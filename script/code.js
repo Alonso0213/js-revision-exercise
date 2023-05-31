@@ -1,3 +1,4 @@
+// Question 1
 let people=[
     {
         firstName: 'Alonso',
@@ -47,6 +48,7 @@ let people=[
 ]
 console.log(people);
 
+// Question 2/3
 let person1={
     firstName: 'Alonso',
         lastname: 'cupido',
